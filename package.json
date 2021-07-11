@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.0.2",
+    "enzyme": "^3.11.0"
+  }
+}
